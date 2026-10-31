@@ -1,31 +1,29 @@
-## Hi there 👋 / 你好 👋
+## Hi there 👋
 
-I'm **Tony**, a student who likes building small tools that solve real problems.
-我是 **Tony**，一名学生，喜欢做一些能解决实际问题的小工具。
+I'm **Tony**, a high school student who likes building small tools that solve real problems.
 
-### 🔭 Currently working on / 正在做
-- **[ColorHide](https://github.com/TonyD365/ColorHide)**: hides colored content in black-and-white prints (PySide6 desktop app with auto-update)
-  **ColorHide**：让彩色内容在黑白打印中隐藏（PySide6 桌面应用，支持自动更新）
-- A chess analysis coach that explains positions in plain language
-  一个国际象棋复盘教练，用通俗的语言讲解局面
+### 🔭 What I'm working on
+- **[YTKTV](https://github.com/TonyD365/YTKTV)**: a karaoke system for home or a real KTV. It plays songs from YouTube, removes the vocals, shows synced lyrics, and comes with **YTKTV Desk**, a front-desk app for running several rooms.
+- **[Inkhue](https://github.com/TonyD365/Inkhue)**: a black-and-white print that carries its own color. Print on any B/W printer, scan it, and the color comes back.
+- **[Roickbot](https://github.com/TonyD365/Roickbot)**: connects Roblox Studio to Claude Code or any AI agent that can use MCP tools.
+- **[Chess Coach](https://github.com/TonyD365/Chess-Coach)**: a chess analysis coach that explains positions in plain language.
+- **GeoFS userscripts**: [Airbus fly-by-wire](https://github.com/TonyD365/GeoFs-Airbus-Fly-By-Wire) and other add-ons for the GeoFS flight simulator.
 
-### 🌱 Currently learning / 正在学习
+### 🌱 What I'm learning
 - C++, Python, and chemistry
-  C++、Python 和化学
 
-### 👯 Looking to collaborate on / 希望合作
-- Small, useful open-source tools / 实用的小型开源工具
+### 👯 Looking to collaborate on
+- Small, useful open-source tools
 
-### 💬 Ask me about / 可以问我
-- Python desktop apps, browser userscripts, chess ♟️
-  Python 桌面应用、浏览器用户脚本、国际象棋 ♟️
+### 💬 Ask me about
+- Python desktop apps, browser userscripts, flight sims ✈️, and chess ♟️
 
-### 📫 How to reach me / 联系方式
-- GitHub Issues on my repos / 在我的仓库里提 Issue
-- Email me to: tonydong365@gmail.com or tonydong365@outlook.com
+### 🤖 My bot
+[TonyD365-Agent](https://github.com/TonyD365-Agent) is my automation account. It opens the pull requests and releases in my repos, and I review everything before it's merged.
 
-### ⚡ Fun fact / 趣事
-- I'm still in high school! 我还在高中里当书呆子呢！
+### 📫 How to reach me
+- Open an issue on any of my repos
+- Email: tonydong365@gmail.com or tonydong365@outlook.com
 
 ---
 
