@@ -14,6 +14,17 @@ A full karaoke system for your living room or a real KTV, built with Python and 
 - **YTKTV Desk**: a front-desk app that runs many rooms like a real KTV, with room timers, service calls, orders, bills, and bookings.
 - **Runs everywhere**: installers for macOS, Windows (also on winget), and Linux, with auto-update.
 
+### 🔐 Featured: [lanpair](https://github.com/TonyD365/lanpair)
+Secure device pairing and messaging for your local network, in a few lines of Python. It came out of YTKTV Desk, where a front desk sends commands to the rooms.
+
+- **Pair once with a QR code**: the host shows a code, the device scans it, and they trust each other from then on.
+- **Every message is safe**: encrypted to its recipient, signed by its sender, and checked for replays, also after restarts.
+- **Forward secrecy**: short-lived session keys, so keys stolen later can't decrypt old messages.
+- **Just works**: finds devices with mDNS, keeps keys in the OS keychain, and sends small messages by UDP and large ones by TCP.
+- **Tested like an attacker would**: fuzzing, an end-to-end test with an attacker on a simulated LAN, and the OpenSSF Best Practices badge.
+
+`pip install "lanpair[all]"` · [Website](https://tonyd365.github.io/lanpair/) · [PyPI](https://pypi.org/project/lanpair/)
+
 ### 🔭 Other projects
 - **[Inkhue](https://github.com/TonyD365/Inkhue)**: a black-and-white print that carries its own color. Print on any B/W printer, scan it, and the color comes back.
 - **[Roickbot](https://github.com/TonyD365/Roickbot)**: connects Roblox Studio to Claude Code or any AI agent that can use MCP tools.
