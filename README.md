@@ -15,7 +15,7 @@ A full karaoke system for your living room or a real KTV, built with Python and 
 - **Runs everywhere**: installers for macOS, Windows (also on winget), and Linux, with auto-update.
 
 ### 🔐 Featured: [lanpair](https://github.com/TonyD365/lanpair)
-Secure device pairing and messaging for your local network, in a few lines of Python. It came out of YTKTV Desk, where a front desk sends commands to the rooms.
+Secure device pairing and messaging for your local network, in a few lines of Python.
 
 - **Pair once with a QR code**: the host shows a code, the device scans it, and they trust each other from then on.
 - **Every message is safe**: encrypted to its recipient, signed by its sender, and checked for replays, also after restarts.
